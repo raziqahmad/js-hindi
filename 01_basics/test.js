@@ -1,4 +1,3 @@
-
-let text = "Apple, Banana, Kiwi";
-let part = text.slice(7,13);
+let text = "ABCDEFGHIJKLMNOPQ"
+let part = text.slice(-12, -6);
 console.log(part);
